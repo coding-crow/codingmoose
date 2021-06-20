@@ -18,8 +18,13 @@ extract the zip
 open termux and follow this commands
 
 cd storage
+
 cd downloads
+
 cd color hooker
+
 php rxce.php (wait 30 sec to load)
+
        or
+       
 php mantrimalls.php (wait 30 sec to load)
